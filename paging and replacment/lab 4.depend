@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609704818 source:c:\codeblocks\lab 4\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<iterator>
+
